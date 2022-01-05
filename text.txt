@@ -1,1 +1,1 @@
-hello this is example of git
+hello this is example of git push and pull functionns
